@@ -96,4 +96,6 @@ This project is using [`react-router-dom v4`](https://reacttraining.com/react-ro
 
 There are several routes to navigate to different pages of the app:
 
-\[Home and About\]
+to Home = "/" or default
+to About = "/about"
+
